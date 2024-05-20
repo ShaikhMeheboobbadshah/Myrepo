@@ -1,0 +1,11 @@
+1. Git Account.
+2. Empty repo. (Make repo in remot and local)
+3. Local system (Run this command in local system)
+	git config --global user.name "gitusername"
+	git config --global user.email "git_user_email@gmail.com"
+
+4.git push -u origin master
+	4.1. username==>git_user_name
+	4.2. password==>git password (Password is a token in git on setting >developer>token>generate token (classic) >check all box)
+ 	
+		
