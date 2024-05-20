@@ -1,6 +1,6 @@
 1. Git Account.
 2. Empty repo. (Make repo in remot and local)
-3. Local system (Run this command in local system){run this command when you don't set "Configuratinos username and useremail in local machine " before}
+3. Local system (Run this command in local system) // {run this command when you don't set "Configuratinos username and useremail in local machine " before}
 	git config --global user.name "gitusername"
 	git config --global user.email "git_user_email@gmail.com"
 
